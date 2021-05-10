@@ -1,0 +1,121 @@
+html {
+    position: relative;
+    background-image: url("spring-00-wide.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a {
+    position: relative;
+    border-radius: 15px;
+    background-color: rgba(0,0,0,0.6);
+    width: 380px;
+    height: 392.5px;
+    bottom: -209px;
+}
+
+.b {
+    height: 48px;
+    width: 48px;
+    position: relative;
+    left: 166px;
+    bottom: -20px;
+}
+
+.c {
+    font-family: "Estedad-VF",Tahoma,sans-serif;
+    bottom: -20px;
+    position: relative;
+    left: 155px;
+    color: white;
+}
+
+.d {
+    opacity: 0.5;
+    background-color: rgba(0,0,0,0.4);
+    width: 250px;
+    height: 39px;
+    color: white;
+    font-family: "Estedad-VF",Tahoma,sans-serif;
+    font-size: 14px;
+}
+
+.e {
+    position: relative;
+    left: 65px;
+    bottom: -23px;
+}
+
+.f {
+    position: relative;
+    left: 65px;
+    bottom: -25.5px;
+}
+
+.g {
+    font-family: "Estedad-VF",Tahoma,sans-serif;
+    color: white;
+    font-size: 16px;
+    height: 39px;
+    width: 256px;
+    background-color: dodgerblue;
+}
+
+.h {
+    position: relative;
+    bottom: -40px;
+    left: 65px;
+}
+
+.i {
+    position: relative;
+    left: 82px;
+    bottom: -65px;
+}
+
+.j {
+    position: relative;
+    left: 129.5px;
+    bottom: -27px;
+}
+
+.k {
+    position: relative;
+    left: 177px;
+    bottom: 11px;
+}
+
+.l {
+    position: relative;
+    left: 224.5px;
+    bottom: 49px;
+}
+
+.m {
+    position: relative;
+    left: 272px;
+    bottom: 87px;
+}
+
+.n{
+    opacity: 0.5;
+    background-color: white;
+    width: 320px;
+    height: 1px;
+    position: relative;
+    left: 30px;
+    bottom: 60px;
+}
+
+.o {
+    font-family: "Estedad-VF",Tahoma,sans-serif;
+    color: white;
+    font-size: 13px;
+}
