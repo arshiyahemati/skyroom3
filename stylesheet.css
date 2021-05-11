@@ -1,6 +1,7 @@
 html {
     position: relative;
     background-image: url("spring-00-wide.jpg");
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
